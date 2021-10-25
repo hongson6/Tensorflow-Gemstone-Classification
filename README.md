@@ -5,7 +5,7 @@ The goal of this project is to explore the functionality of Tensorflow by attemp
 
 ---
 
-## Portfolio Data:
+## Data:
 We will be using a dataset that consists of 3,200+ images of different gemstones and 87 classes. The data is publicly available and is on kaggle (https://www.kaggle.com/lsind18/gemstones-images).
 
 ---
