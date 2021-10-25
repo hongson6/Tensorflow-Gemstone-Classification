@@ -11,8 +11,8 @@ We will be using a dataset that consists of 3,200+ images of different gemstones
 ---
 
 ## Development:
-Load, resized, and cleansed the gemstone data
-Researched Convolutional Neural Networks (CNN) and the possible uses for gemstone image classification
-Utilized VGG16 Model (pre-trained CNN Model) for image classification
-Utilized CNN Model (own CNN Model) for image classification
-Determined our own train CNN Model to be the best applicable model, achieving classification accuracy score of 0.49 with only 18 epochs.
+- Load, resized, and cleansed the gemstone data
+- Researched Convolutional Neural Networks (CNN) and the possible uses for gemstone image classification
+- Utilized VGG16 Model (pre-trained CNN Model) for image classification
+- Utilized CNN Model (own CNN Model) for image classification
+- Determined our own train CNN Model to be the best applicable model, achieving classification accuracy score of 0.49 with only 18 epochs.
